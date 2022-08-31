@@ -7,7 +7,7 @@
 <img src="https://c.tenor.com/rhFkUvCXgHEAAAAd/fate-grand-order-ars-almadel-salomonis.gif" alt="Shizu-Hub" width="600"/>
 </p>
   
-![Snake animation](https://github.com/Shizu-Hub/Shizu-Hub/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   <p align="center">
