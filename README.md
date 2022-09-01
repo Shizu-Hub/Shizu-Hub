@@ -1,6 +1,6 @@
 # `👑Shizu-Hub👑`
 <p align="center"> 
-  <a href="https://github.com/Gustavo-Peng"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=SE+BIENVENIDO+A+MI+PERFIL;ESPERO+QUE+TENGAS+UN+LINDO+DIA;NOS+VEMOS+:v+%F0%9F%91%8B" height="70px"
+  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=SE+BIENVENIDO+A+MI+PERFIL;ESPERO+QUE+TENGAS+UN+LINDO+DIA;NOS+VEMOS+:v+%F0%9F%91%8B" height="70px"
 </p>
 
 <p align="center">
